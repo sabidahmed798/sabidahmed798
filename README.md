@@ -1,127 +1,131 @@
-<h1 align="center">Hi 👋, I'm Sabid Ahmed</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Web Engineer | React.js | Next.js | TypeScript
-</h3>
+# 👋 Hi, I'm Sabid Ahmed
 
-<p align="center">
-  <a href="https://github.com/sabidahmed798">
-    <img src="https://komarev.com/ghpvc/?username=sabidahmed798&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+### 🚀 Full Stack Web Engineer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sabidahmed798&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Full-Stack Web Development**
-- 🌱 Currently learning **React.js & Next.js**
-- 💻 Interested in building **modern, scalable web applications**
-- 🚀 Focused on becoming a professional **Full Stack Web Engineer**
-- 📚 Continuously improving my **JavaScript, TypeScript & React** skills
+```javascript
+const sabid = {
+  name: "Sabid Ahmed",
+  role: "Full Stack Web Engineer",
+  currentlyLearning: ["React.js", "Next.js", "TypeScript"],
+  frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js"],
+  backend: ["Node.js", "Express.js", "MongoDB"],
+  tools: ["Git", "GitHub", "VS Code"],
+  goal: "Build scalable and modern web applications"
+};
+```
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 What I'm Doing Now
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  </a>
+* 🔭 Working on **Full-Stack Web Development**
+* 🌱 Learning **React.js, Next.js & TypeScript**
+* 💡 Building real-world web applications
+* 📚 Improving my problem-solving skills
+* 🎯 Working toward becoming a professional **Full Stack Engineer**
 
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  </a>
+---
 
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
-  </a>
+### 💻 Frontend
 
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
 
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  </a>
+### ⚙️ Backend
 
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  </a>
+### 🔧 Tools
 
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabidahmed798&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabidahmed798&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmed798&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabidahmed798/sabidahmed798/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabidahmed798&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/sabid-ahmed/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/sabid-ahmed/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://discord.gg/sabidahmed798_75180" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" alt="Discord"/>
+<a href="https://discord.gg/sabidahmed798_75180">
+<img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabidahmed798&show_icons=true&theme=tokyonight&hide_border=true" alt="Sabid's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmed798&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabidahmed798&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sabidahmed798/sabidahmed798/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 🚀 Current Focus
+## 🎯 2026 Goals
 
 ```text
-Frontend
-├── HTML
-├── CSS
-├── Tailwind CSS
-├── JavaScript
-├── TypeScript
-├── React.js
-└── Next.js
+Full Stack Development     ████████████████████░░  90%
+React.js                   ██████████████████░░░░  85%
+TypeScript                 ████████████████░░░░░░  75%
+Next.js                    ██████████████░░░░░░░░  70%
+Node.js                    ████████████░░░░░░░░░░  60%
+MongoDB                    ██████████░░░░░░░░░░░░  50%
+```
 
-Backend
-├── Node.js
-├── Express.js
-└── MongoDB
+---
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
+## 💭 Developer Mindset
+
+> **"Code. Learn. Build. Repeat."**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+</p>
