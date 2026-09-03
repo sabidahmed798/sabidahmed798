@@ -1,3 +1,12 @@
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F172A,50:0369A1,100:2563EB&text=Sabid%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=20"
+  width="100%"
+/>
+
+</div>
+
 # 👋 Hi, I'm **Sabid Ahmed**
 
 ### 🚀 Full Stack Web Engineer
@@ -55,12 +64,10 @@ const sabid = {
     src="https://github-readme-stats.vercel.app/api?username=sabidahmed798&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     width="49%"
   />
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=sabidahmed798&theme=tokyonight&hide_border=true"
- width="49%"
-/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sabidahmed798&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
 </p>
 
 ---
@@ -104,16 +111,16 @@ const sabid = {
 
 <p align="center">
 
-<a href="https://github.com/sabidahmed798">
+<a href="https://github.com/sabidahmed798/REPLACE_WITH_REPO_1">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sabidahmed798&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sabidahmed798&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true"
     width="45%"
   />
 </a>
 
-<a href="https://github.com/sabidahmed798">
+<a href="https://github.com/sabidahmed798/REPLACE_WITH_REPO_2">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sabidahmed798&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sabidahmed798&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true"
     width="45%"
   />
 </a>
@@ -125,7 +132,7 @@ const sabid = {
 # 🎯 2026 Learning Goals
 
 | Technology                    |            Progress            |
-| :---------------------------- | :----------------------------: |
+| :----------------------------- | :-----------------------------: |
 | 🚀 **Full Stack Development** | `██████████████████░░` **90%** |
 | ⚛️ **React.js**               | `█████████████████░░░` **85%** |
 | 📘 **TypeScript**             | `███████████████░░░░░` **75%** |
@@ -160,10 +167,6 @@ Version Control → Git / GitHub
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/sabidahmed798_75180">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -183,8 +186,8 @@ Version Control → Git / GitHub
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:2563EB"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:2563EB"
+  width="100%"
 />
 
 </div>
