@@ -1,11 +1,13 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=220&section=header&text=Sabid%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=22" width="100%" />
+
 # 👋 Hi, I'm Sabid Ahmed
 
 ### 🚀 Full Stack Web Engineer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p>
@@ -22,10 +24,30 @@
 const sabid = {
   name: "Sabid Ahmed",
   role: "Full Stack Web Engineer",
-  currentlyLearning: ["React.js", "Next.js", "TypeScript"],
-  frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js"],
-  backend: ["Node.js", "Express.js", "MongoDB"],
-  tools: ["Git", "GitHub", "VS Code"],
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "npm"
+  ],
+
   goal: "Build scalable and modern web applications"
 };
 ```
@@ -47,19 +69,19 @@ const sabid = {
 ### 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
 ---
@@ -71,8 +93,12 @@ const sabid = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabidahmed798&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+---
+
+## 💻 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmed798&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmed798&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 ---
@@ -80,7 +106,7 @@ const sabid = {
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabidahmed798/sabidahmed798/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/sabidahmed798/sabidahmed798/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ---
@@ -88,7 +114,7 @@ const sabid = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabidahmed798&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabidahmed798&bg_color=1a1b27&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -98,11 +124,11 @@ const sabid = {
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sabid-ahmed/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="https://discord.gg/sabidahmed798_75180">
-<img src="https://skillicons.dev/icons?i=discord" width="50"/>
+  <img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
 </p>
@@ -126,6 +152,10 @@ MongoDB                    ██████████░░░░░░░�
 
 > **"Code. Learn. Build. Repeat."**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
-</p>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" width="100%" />
+
+</div>
