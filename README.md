@@ -74,13 +74,42 @@ const sabid = {
 
 # 📈 Most Used Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabidahmed798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="50%"
-  />
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td width="500">
+
+<h2 align="center">Most Used Languages</h2>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="46.22%" bgcolor="#3178C6">&nbsp;</td>
+<td width="30.02%" bgcolor="#E34F26">&nbsp;</td>
+<td width="20.21%" bgcolor="#663399">&nbsp;</td>
+<td width="3.56%" bgcolor="#F7DF1E">&nbsp;</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td>🔵 TypeScript 46.22%</td>
+<td>🟣 CSS 20.21%</td>
+</tr>
+
+<tr>
+<td>🔴 HTML 30.02%</td>
+<td>🟡 JavaScript 3.56%</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
