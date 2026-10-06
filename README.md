@@ -1,7 +1,7 @@
 <div align="center">
 
  <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F172A,50:0369A1,100:2563EB&text=Sabid%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=20"
+  src="https://media.licdn.com/dms/image/v2/D5616AQFR_6wy_9cRPg/profile-displaybackgroundimage-shrink_350_1400/B56aEQJdShIIAY-/0/1791272277464?e=1792627200&v=beta&t=kecj7eJMD0pOfyVFmSRNkd9DxAiO5g9-vGcno-TTITM"
   width="100%"
 />
 
