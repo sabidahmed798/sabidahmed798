@@ -1,9 +1,9 @@
 <div align="center">
 
-<img
+<!-- <img
   src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F172A,50:0369A1,100:2563EB&text=Sabid%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Engineer&descAlignY=55&descSize=20"
   width="100%"
-/>
+/> -->
 
 </div>
 
