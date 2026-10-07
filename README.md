@@ -31,11 +31,11 @@ Currently, I'm focused on expanding my knowledge in **Node js** and **Mongodb** 
 
 ---
 🚀 Current Activities <br>
-🌱 I am exploring Next.js and improving my React.js skills.
-💻 I am working on full-stack web development projects.
-⚛️ I am currently learning React.js, Next.js, and TypeScript.
-🔐 I am exploring authentication with Better Auth.
-📰 I am working on a Bangla News website using Next.js.
+🌱 I am exploring Next.js and improving my React.js skills.<br>
+💻 I am working on full-stack web development projects.<br>
+⚛️ I am currently learning React.js, Next.js, and TypeScript.<br>
+🔐 I am exploring authentication with Better Auth.<br>
+📰 I am working on a Bangla News website using Next.js.<br>
 🚀 I am continuously improving my JavaScript and modern web development skills.
 
 
