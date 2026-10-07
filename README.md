@@ -10,27 +10,22 @@
 </div>
 
 # Hi 👋, I'm Sabid Ahmed  
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 Full Stack Web Developer
 
 ---
 
-## 🧑‍💻 About Me
 
-```javascript
-const sabid = {
-  role: "Full Stack Web Engineer",
-  learning: ["React.js", "Next.js", "TypeScript"],
-  stack: ["JavaScript", "Node.js", "MongoDB"],
-  goal: "Build modern web applications"
-};
-```
+## 👨‍💻 About Me  
+I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
+Currently, I'm focused on expanding my knowledge in **Node js** and **Mongodb** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
+
 
 ## 🚀 What I'm Doing Now
 
 * 🔭 **Working On:** Full-Stack Web Development
-* 🌱 **Learning:** React.js · Next.js · TypeScript
+* 🌱 **Learning:** Node.js· Next.js · Mongodb
 * 💡 **Building:** Modern & Real-World Applications
 * 🎯 **Goal:** Become a Professional Full Stack Engineer
 
