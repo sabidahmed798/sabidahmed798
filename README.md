@@ -30,7 +30,7 @@ Currently, I'm focused on expanding my knowledge in **Node js** and **Mongodb** 
 * 🎯 **Goal:** Become a Professional Full Stack Engineer
 
 ---
-🚀 Current Activities
+🚀 Current Activities <br>
 🌱 I am exploring Next.js and improving my React.js skills.
 💻 I am working on full-stack web development projects.
 ⚛️ I am currently learning React.js, Next.js, and TypeScript.
