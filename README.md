@@ -9,9 +9,8 @@
 
 </div>
 
-# 👋 Hi, I'm **Sabid Ahmed**
-
-### 🚀 Full Stack Web Engineer
+# Hi 👋, I'm Sabid Ahmed  
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
