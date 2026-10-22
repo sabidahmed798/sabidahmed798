@@ -25,9 +25,32 @@
 ---
 
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **Node js** and **Mongodb** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+
+<h2 align="center">✨ 👨‍💻 About Me ✨</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Learning+Node.js+%26+MongoDB;Always+Learning+New+Technologies" alt="About Me Animation" />
+</p>
+
+<p align="center">
+  🚀 Passionate about building modern, high-performance web applications.
+  <br/>
+  💻 Love working with JavaScript, React, and Node.js.
+  <br/>
+  🌱 Currently learning Node.js and MongoDB.
+  <br/>
+  🔥 Exploring real-world projects and new technologies.
+  <br/>
+  🤝 Open to discussing web development, open-source, and cool tech ideas!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 
 ---
 
