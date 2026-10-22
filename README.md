@@ -7,7 +7,17 @@
 
 
 </div>
+<h1 align="center">
+  Hi , I'm Sabid Ahmed
+</h1>
 
+<h3 align="center">
+   Full Stack Web Developer in Progress
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sabid+Ahmed;I'm+Learning+React+%26+Next.js;I+Love+Building+Web+Applications;Future+AI-Powered+Full+Stack+Engineer" alt="Typing SVG" />
+</p>
 # Hi 👋, I'm Sabid Ahmed  
 ### 🔭 Full Stack Web Developer
 
