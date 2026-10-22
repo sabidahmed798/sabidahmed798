@@ -29,7 +29,7 @@
 <h2 align="left">✨ 👨‍💻 About Me ✨</h2>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Learning+Node.js+%26+MongoDB;Always+Learning+New+Technologies" alt="About Me Animation" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Learning+Node.js+%26+MongoDB;Always+Learning+New+Technologies" alt="About Me Animation" /> -->
 </p>
 
 <p align="left">
