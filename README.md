@@ -8,10 +8,11 @@
 
 </div>
 <h1 align="center">
-  <!-- Hi , I'm Sabid Ahmed -->
+  Hi , I'm Sabid Ahmed
 </h1>
 
-<h3 align="center">
+<h3 align="left">
+  Full Stack Web Developer 
    <!-- Full Stack Web Developer in Progress -->
 </h3>
 
