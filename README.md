@@ -26,13 +26,13 @@
 
 
 
-<h2 align="center">✨ 👨‍💻 About Me ✨</h2>
+<h2 align="left">✨ 👨‍💻 About Me ✨</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Learning+Node.js+%26+MongoDB;Always+Learning+New+Technologies" alt="About Me Animation" />
 </p>
 
-<p align="center">
+<p align="left">
   🚀 Passionate about building modern, high-performance web applications.
   <br/>
   💻 Love working with JavaScript, React, and Node.js.
@@ -44,7 +44,7 @@
   🤝 Open to discussing web development, open-source, and cool tech ideas!
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
