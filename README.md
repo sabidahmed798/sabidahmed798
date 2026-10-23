@@ -33,15 +33,15 @@
 </p>
 
 <p align="left">
-  🚀 Passionate about building modern, high-performance web applications.
+  * Passionate about building modern, high-performance web applications.
   <br/>
-  💻 Love working with JavaScript, React, and Node.js.
+  * Love working with JavaScript, React, and Node.js.
   <br/>
-  🌱 Currently learning Node.js and MongoDB.
+  * Currently learning Node.js and MongoDB.
   <br/>
-  🔥 Exploring real-world projects and new technologies.
+  * Exploring real-world projects and new technologies.
   <br/>
-  🤝 Open to discussing web development, open-source, and cool tech ideas!
+  * Open to discussing web development, open-source, and cool tech ideas!
 </p>
 
 <p align="left">
